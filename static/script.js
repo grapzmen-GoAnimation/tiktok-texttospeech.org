@@ -1,6 +1,6 @@
 const ENDPOINT = 'https://tiktok-tts.weilbyte.dev'
 
-const TEXT_BYTE_LIMIT = 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+const TEXT_BYTE_LIMIT = 999
 const textEncoder = new TextEncoder()
 
 window.onload = () => {
